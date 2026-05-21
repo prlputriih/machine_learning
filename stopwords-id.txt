@@ -185,6 +185,7 @@ demikian
 demikianlah
 dengan
 depan
+di
 din
 dia
 diakhiri
@@ -275,6 +276,7 @@ dua
 dung
 dulu
 e
+euy
 ecek
 eh
 elah
@@ -908,6 +910,7 @@ untuk
 ups
 usah
 uy
+uey
 v
 w
 waduh
