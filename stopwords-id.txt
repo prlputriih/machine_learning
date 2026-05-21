@@ -1,8 +1,8 @@
 ada
+ah
 adalah
 adanya
 adapun
-apapun
 agak
 agaknya
 agar
@@ -25,6 +25,7 @@ apaan
 apabila
 apakah
 apalagi
+apapun
 apatah
 artinya
 asal
@@ -292,6 +293,7 @@ juga
 jumlah
 jumlahnya
 justru
+kah
 kala
 kalau
 kalaulah
@@ -479,6 +481,7 @@ naik
 namun
 nanti
 nantinya
+nga
 nya
 nyaris
 nyatanya
@@ -735,6 +738,7 @@ tidaklah
 tiga
 tinggi
 toh
+tuh
 tunjuk
 turut
 tutur
