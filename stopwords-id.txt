@@ -2,6 +2,7 @@ ada
 adalah
 adanya
 adapun
+apapun
 agak
 agaknya
 agar
@@ -757,6 +758,7 @@ waktunya
 walau
 walaupun
 wong
+yah
 yaitu
 yakin
 yakni
