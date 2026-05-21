@@ -273,6 +273,7 @@ gak
 guna
 gunakan
 gitu
+ginian
 gt
 gue
 gw
@@ -520,6 +521,7 @@ mirip
 misal
 misalkan
 misalnya
+mo
 mula
 mulai
 mulailah
