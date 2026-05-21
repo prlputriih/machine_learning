@@ -130,6 +130,7 @@ bukannya
 bulan
 bung
 cara
+cal
 caranya
 cukup
 cukupkah
@@ -358,6 +359,7 @@ lebih
 lewat
 lima
 luar
+mah
 macam
 maka
 makanya
