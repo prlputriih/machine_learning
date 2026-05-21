@@ -20,6 +20,7 @@ akhiri
 akhirnya
 aku
 akulah
+al
 alah
 amat
 amatlah
@@ -171,7 +172,7 @@ demikian
 demikianlah
 dengan
 depan
-di
+din
 dia
 diakhiri
 diakhirinya
@@ -216,6 +217,7 @@ dimulailah
 dimulainya
 dimungkinkan
 dini
+ding
 dipastikan
 diperbuat
 diperbuatnya
@@ -289,12 +291,14 @@ hari
 harus
 haruslah
 harusnya
+heh
 hehe
 hello
 hendak
 hendaklah
 hendaknya
 hingga
+hm
 i
 ia
 ialah
@@ -536,10 +540,12 @@ nanti
 nantinya
 nga
 ngab
+ngada
 ngak
 ngga
 nggak
 nge
+ngeh
 nih
 nya
 nyaris
@@ -550,6 +556,8 @@ oke
 okey
 oleh
 olehnya
+ops
+oops
 p
 pada
 padahal
@@ -673,6 +681,7 @@ selama
 selama-lamanya
 selamanya
 selanjutnya
+sele
 seluruh
 seluruhnya
 semacam
@@ -773,6 +782,7 @@ tentu
 tentulah
 tentunya
 tepat
+ter
 terakhir
 terasa
 terbanyak
@@ -781,6 +791,7 @@ terdapat
 terdiri
 terhadap
 terhadapnya
+terima
 teringat
 teringat-ingat
 terjadi
@@ -809,6 +820,7 @@ tidakkah
 tidaklah
 tiga
 tinggi
+to
 toh
 tolong
 tuh
@@ -828,6 +840,7 @@ umumnya
 ungkap
 ungkapnya
 untuk
+ups
 usah
 v
 w
@@ -838,6 +851,7 @@ waktu
 waktunya
 walau
 walaupun
+wakaka
 wkwk
 wkwkwk
 woi
