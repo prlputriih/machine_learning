@@ -141,6 +141,8 @@ bisakah
 bjm
 bla
 boleh
+bola
+bali
 bolehkah
 bolehlah
 bos
@@ -290,6 +292,7 @@ gunakan
 gitu
 ginian
 gonta
+gong
 gt
 gue
 gw
@@ -316,6 +319,7 @@ hendaklah
 hendaknya
 hingga
 hm
+huft
 huh
 i
 ia
@@ -831,6 +835,7 @@ tanyanya
 tapi
 tegas
 tegasnya
+tel
 telah
 tempat
 tenang
@@ -912,6 +917,7 @@ waktunya
 walau
 walaupun
 wakaka
+weh
 widia
 wkwk
 wkwkwk
