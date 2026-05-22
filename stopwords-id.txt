@@ -167,6 +167,7 @@ cal
 cara
 caranya
 cepet
+cih
 coba
 cukup
 cukupkah
@@ -313,6 +314,7 @@ hah
 hai
 hal
 hallo
+hahehahe
 hampir
 hanya
 hanyalah
@@ -321,6 +323,7 @@ harus
 haruslah
 harusnya
 heh
+hedeh
 hehe
 hei
 hello
@@ -724,6 +727,7 @@ seenaknya
 segala
 segalanya
 segera
+seh
 seharusnya
 sehingga
 seingat
@@ -938,6 +942,7 @@ weh
 widia
 wkwk
 wkwkwk
+wkwkw
 woi
 wong
 x
