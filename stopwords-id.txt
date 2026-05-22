@@ -296,6 +296,7 @@ ga
 gak
 guna
 gunakan
+gini
 gitu
 ginian
 gonta
@@ -304,7 +305,9 @@ gt
 gue
 gw
 h
+hadah
 hadeuh
+hadeh
 haha
 hah
 hai
@@ -435,6 +438,7 @@ kita
 kitalah
 kok
 kq
+ku
 kuai
 kurang
 l
@@ -607,8 +611,10 @@ nya
 nyaris
 nyatanya
 o
+okay
 oh
 oi
+ok
 oke
 okey
 oleh
@@ -661,6 +667,7 @@ rata
 rb
 rupanya
 s
+sama
 saat
 saatnya
 saja
@@ -781,6 +788,7 @@ sepertinya
 sepihak
 sering
 seringnya
+set
 serta
 serupa
 sesaat
@@ -885,7 +893,6 @@ tetapi
 tiap
 tiba
 tiba-tiba
-tidak
 tidakkah
 tidaklah
 tiga
@@ -940,6 +947,7 @@ yakali
 yakin
 yakni
 yang
+yaudh 
 ye
 yo
 z
