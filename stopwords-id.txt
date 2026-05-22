@@ -92,6 +92,7 @@ belumlah
 benar
 benarkah
 benarlah
+ber
 berada
 berakhir
 berakhirlah
